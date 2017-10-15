@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=pixels\ prob
+comment0.target=DirectedMondrian(double,\ int)
+comment1.params=
+comment1.target=boolean\ coinToss()
+numComments=2
